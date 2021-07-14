@@ -8,27 +8,23 @@ author:
 meta: "cohort4"
 ---
 
-## A day in the life of a Platform / Devops engineer 
-
-A day in the life of a Platform / Devops engineer
-
-### First things first....
+## First things first....
 
 After a rousing wake up caffeine injection I like to logon and begin my routine checking all my emails and chats just to ensure I have not missed anything from the previous day.
 I will also check all of our status dashboards to make sure all our services are ok and no issues arose overnight.
 
 
-### Looking ahead....
+## Looking ahead....
 
 After catching up with all of this I like to look forward to the coming day by checking out our  Kanban board.  We work usually in 2 to 3 week sprints.
 At the begining of each sprint we establish our workflow based on low to high priority tasks and assign through the team, this way we can make sure we are working on something that is a high priority task based off our kanban board.
 
-### Down to work...
+## Down to work...
 
 I will pickup my highest priority task from the Kanban board and begin or continue working on it.  I will have added progress notes to the task so that the rest of the team are aware of my progress.  
 If i am sharing a task with other team members we will open a comms channel so we can work collaboratively for the duration.
 
-### Passing the Duck...
+## Passing the Duck...
 
 Usually at 11 o'clock we have a daily stand up.  We will try to limit this to 15 mins.
 As a team we go through the status of our products and services as well as the prioritisation of work for the day 
