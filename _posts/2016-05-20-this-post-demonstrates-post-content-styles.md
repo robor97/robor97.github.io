@@ -1,16 +1,14 @@
 ---
 layout: post
-title: "A day in the life of a Platform Engineer"
-categories: cohort4
+title: "This post demonstrates post content styles"
+categories: junk
 author:
-- R O Reilly
-- Cohort 4
-meta: "cohort4"
+- Bart Simpson
+- Nelson Mandela Muntz
+meta: "Springfield"
 ---
 
-## A day in the life of a Platform / Devops engineer (h2)
-
-A day in the life of a Platform / Devops engineer
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
 ## Some great heading (h2)
 
