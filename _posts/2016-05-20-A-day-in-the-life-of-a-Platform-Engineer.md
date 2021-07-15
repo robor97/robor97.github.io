@@ -27,7 +27,7 @@ If I am sharing a task with other team members we will open a comms channel so w
 
 Usually at 11 o'clock we have a daily stand up.  We will try to limit this to 15 mins.
 As a team we go through the status of our products and services as well as the prioritisation of work for the day 
-Everyone in the team will have an equal voice and the duck will be passed many times so that everyone can make a contribution or highlight any blockers that may delay work being done that day. Did somwbody say lunch?
+Everyone in the team will have an equal voice and the duck will be passed many times so that everyone can make a contribution or highlight any blockers that may delay work being done that day. Did somebody say lunch?
 
 ## Earning my crust
 
