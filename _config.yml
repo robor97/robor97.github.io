@@ -14,11 +14,11 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Capgemini
+      title: Capgemini Platform Engineering
 
 description: Stylish Jekyll Theme
 author:
-  name: Capgemini
+  name: Capgemini 
   email: www.capgemini.com
   github: Capgemini
   twitter: Capgemini
