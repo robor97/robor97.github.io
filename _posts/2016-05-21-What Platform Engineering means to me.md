@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Platform Engineering means to me"
+title: "What is Platform Engineering"
 categories: cohort4
 author:
 - Matt Lumb
