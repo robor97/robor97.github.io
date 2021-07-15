@@ -57,24 +57,24 @@ article .share .twitter:hover {
 	border-color: #00bfff;
 }
 #contact-list li:hover .fa-linkedin {
-	color: #1D87BD;
+	color: #00bfff;
 }
 #contact-list li:hover .fa-envelope {
-	color: #E93E30;
+	color: #00bfff;
 }
 #contact-list li:hover .fa-pinterest {
-	color: #CC2127;
+	color: #00bfff;
 }
 #contact-list li:hover .fa-rss {
-	color: #e74c3c;
+	color: #00bfff;
 }
 article .share .facebook:hover {
-	color: #43609C;
-	border-color: #43609C;
+	color: #00bfff;
+	border-color: #00bfff;
 }
 article .share .gplus:hover {
-	color: #C13929;
-	border-color: #C13929;
+	color: #00bfff;
+	border-color: #00bfff;
 }
 
 #contact-list-secondary {
@@ -82,7 +82,7 @@ article .share .gplus:hover {
 }
 
 .page-header {
-	color: #e74c3c;
+	color: #00008b;
 	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
 }
 
