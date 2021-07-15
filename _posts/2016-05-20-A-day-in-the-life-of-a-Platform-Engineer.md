@@ -21,7 +21,7 @@ At the begining of each sprint we establish our workflow based on low to high pr
 ## Down to work...
 
 I will pickup my highest priority task from the Kanban board and begin or continue working on it.  I will have added progress notes to the task so that the rest of the team are aware of my progress.  
-If i am sharing a task with other team members we will open a comms channel so we can work collaboratively for the duration.
+If I am sharing a task with other team members we will open a comms channel so we can work collaboratively for the duration.
 
 ## Passing the Duck...
 
@@ -35,7 +35,7 @@ Everyone in the team will have an equal voice and the duck will be passed many t
 ## Earning my crust
 
 For the remainder of the day i will work on my priority tasks making notes of where automation can be created for future use and updating the kanban board as progress is made.
-Informal comms with teammates will be ongoing throughout the day 
+Informal comms with teammates will be ongoing throughout the day.
 
-At the end of each sprint we will have Team retrospectives where we can discuss what was bad, what was good, what can be improved to increase team productivity going into th enext sprint.
+At the end of each sprint we will have Team retrospectives where we can discuss what was bad, what was good, what can be improved to increase team productivity going into the next sprint.
 
