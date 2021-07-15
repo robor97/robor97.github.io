@@ -47,4 +47,4 @@ with Kubernetes, Redshift and other CI/CD pipelines."
 
 ## Rob R
 
-"Platform Engineering to me means being part of a team containing an infrastructure team, a software engineering team, and a Dev-ops team.  The goal of this team is to enable application developers to dekliver value to their clients end users in a faster, more reliable and easier manner"
+"Platform Engineering to me means being part of a collaborative team containing an infrastructure team, a software engineering team, and a Dev-ops team.  The goal of this team is to enable application developers to dekliver value to their clients end users in a faster, more reliable and easier manner"
