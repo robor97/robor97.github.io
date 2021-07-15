@@ -111,8 +111,8 @@ article {
 	padding: 0 5% 0;
 }
 
-article.home div a, article.home pre a { color: #00bfff; }
-article.home div a:hover, article.home pre a:hover { color: #00bfff; text-decoration: none; }
+article.home div a, article.home pre a { color: #0070AD; }
+article.home div a:hover, article.home pre a:hover { color: #0070AD; text-decoration: none; }
 article img { max-width: 100%; }
 
 h1,h2,h3,h4,h5,h6 { font-family: 'Ubuntu', sans-serif; }
@@ -122,8 +122,8 @@ article.home h3,
 article.home h4,
 article.home h5,
 article.home h6 {
-	font-family: 'Ubuntu', sans-serif;
-	color: #00bfff;
+	font-family: 'Ubuntu', verdana;
+	color: #012ABDB;
 }
 
 article.home h1 a,
@@ -136,7 +136,7 @@ article.home h1 a:hover,
 article.home h2 a:hover,
 article.home h3 a:hover,
 article.home h4 a:hover {
-	color: #00bfff;
+	color: #0070AD;
 }
 
 .author .author-image {
@@ -172,7 +172,7 @@ footer {
     border-radius: 4px 0 0 4px;
 }
 
-.badge { background: #00bfff; }
+.badge { background: #0070AD; }
 
 #nav-menu{
     position: fixed;
