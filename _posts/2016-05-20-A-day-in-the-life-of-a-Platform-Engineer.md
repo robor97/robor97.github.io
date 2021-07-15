@@ -8,8 +8,6 @@ author:
 meta: "cohort4"
 ---
 
-
-
 ## First things first....
 
 After a rousing wake up caffeine injection I like to logon and begin my routine checking all my emails and chats just to ensure I have not missed anything from the previous day.
