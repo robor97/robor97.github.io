@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "A day in the life of a Capgemini Platform Engineer"
+title: "What Platform Engineering means to me"
 categories: cohort4
 author:
-- Robert O'Reilly
+- Matt Lumb
 - Cohort 4
 meta: "cohort4"
 ---
