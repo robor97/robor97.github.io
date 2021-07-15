@@ -20,9 +20,8 @@ The application development teams and other technology teams are still responsib
 
 Platforms will be different based on your organization’s needs, but I wanted to explain how a typical platform looks. In diagram #1 below, the platform is self-service where its customers use it for features like Self-service pipelines, Infrastructure Provisioning, Container Platform, Monitoring, Identity Management, Log Aggregation, etc. 
 
-## Diagram 1: Example of a Platform
+## Platform Engineering Team
 
-Platform Engineering Team
 The team that builds and operates the common platform is usually called “Platform Engineering Team,” but as mentioned in the caution at the top, it might make sense to call it something else depending on your situation. One of the DevOps movement’s key aspects is to remove silos in organizations by enabling collaboration between various teams(devs, ops, security, compliance, etc.). Making sure that this team does not become another silo is essential.
 
 See below, an example elevator pitch that explains what a typical Platform Engineering Team would do.
@@ -34,10 +33,12 @@ That can enable out of the box complex deployments & operations using industry b
 Which is declarative, extendable & a comprehensive plug & play solution (Key Differentiator)
 So that they get a competitive advantage by reducing Time to Market & Complexity (Value)
 
-Who are the customers?
+## Who are the customers?
+
 The platform’s customers are other technology teams like Application Development, Information Security, Operations, Compliance, Infrastructure, etc. These are typically internal technology teams within the company, but I can see Platform Engineering being used with external teams too.
 
-When is it useful?
+## When is it useful?
+
 Cross-functional teams where each team manages its infrastructure, application, and operations stack are still highly recommended as they are the most effective way to deliver software. Still, there are cases where PE is useful. See below cases where I have seen Platform Engineering being useful.
 
 Want a dedicated team focused on constant innovation of how applications are deployed and operated in production
