@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "A day in the life of a Platform Engineer"
+title: "A day in the life of a Capgemini Platform Engineer"
 categories: cohort4
 author:
-- R O Reilly
 - Cohort 4
 meta: "cohort4"
 ---
