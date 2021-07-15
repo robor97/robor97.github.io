@@ -30,7 +30,7 @@ As a team we go through the status of our products and services as well as the p
 Everyone in the team will have an equal voice and the duck will be passed many times so that everyone can make a contribution or highlight any blockers that may delay work being done that day.
 <insert duck image>
 
-Dont forget to take a break...get some park life  
+#### Dont forget to take a break...get some park life  
 
 ## Earning my crust
 
