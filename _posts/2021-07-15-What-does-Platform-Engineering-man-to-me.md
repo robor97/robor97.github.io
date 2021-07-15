@@ -5,7 +5,7 @@ categories: cohort4
 author:
 - Robert O'Reilly
 - Cohort 4
-meta: "cohort4"
+meta: "what"
 ---
 
 ## What Platform Engineering means to us
