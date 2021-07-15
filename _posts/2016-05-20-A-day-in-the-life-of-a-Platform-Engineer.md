@@ -13,7 +13,6 @@ meta: "cohort4"
 After a rousing wake up caffeine injection I like to logon and begin my routine checking all my emails and chats just to ensure I have not missed anything from the previous day.
 I will also check all of our status dashboards to make sure all our services are ok and no issues arose overnight.
 
-
 ## Looking ahead....
 
 After catching up with all of this I like to look forward to the coming day by checking out our  Kanban board.  We work usually in 2 to 3 week sprints.
@@ -33,9 +32,9 @@ Everyone in the team will have an equal voice and the duck will be passed many t
 
 Dont forget to take a break...get some park life
 
-### Earning my crust
+## Earning my crust
 For the remainder of the day i will work on my priority tasks making notes of where automation can be created for future use and updating the kanban board as progress is made.
 Informal comms with teammates will be ongoing throughout the day 
 
-At the end of each sprint we will have Team retrospectives where we can discuss what was bad, what was good, what can be improved to increase team productivity
+At the end of each sprint we will have Team retrospectives where we can discuss what was bad, what was good, what can be improved to increase team productivity going into th enext sprint.
 
