@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What does Platform Engoineering mean to me?"
+title: "What does Platform Engineering mean to me?"
 categories: cohort4
 author:
 - Robert O'Reilly
@@ -22,7 +22,7 @@ Below is a sample of quotes of what PE means to members of Cohort 4 at Capgemini
 
 ## Clive
 
-### Initially
+#### Initially
  
 "As a sysadmin, I was hoping that platform engineering was going to be a direct substitution of  
 responsibility for a physical server to one that is in the cloud. I wanted it to be 'Terraform will
@@ -33,7 +33,7 @@ applications on that. I suppose that is the IaaS model but I should learn about 
 
 models too."
 
-### Now
+#### Now
  
 "I'm going go have to look at all the frameworks that exists (or at least understand am overview or
 
