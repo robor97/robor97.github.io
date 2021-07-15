@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What does Platform Engineering mean to me?"
+title: "What Platform Engineering means to me?"
 categories: cohort4
 author:
 - Robert O'Reilly
