@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What does Platform Engineering at Capgemini mean to me?"
+title: "What does Platform Engineering mean to me?"
 categories: cohort4
 author:
 - Robert O'Reilly
