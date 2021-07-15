@@ -1,7 +1,7 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 
 body{
-	color: #020833;
+	color: #00bfff;
 }
 
 .sidebar {
@@ -54,7 +54,7 @@ article .share .btn {
 #contact-list li:hover .fa-twitter,
 article .share .twitter:hover {
 	color: #00ACEE;
-	border-color: #00ACEE;
+	border-color: #00bfff;
 }
 #contact-list li:hover .fa-linkedin {
 	color: #1D87BD;
